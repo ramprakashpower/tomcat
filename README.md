@@ -8,6 +8,7 @@ This is an empty spring boot rest project that uses Tomcat. It was created just 
 2. Java 8+
 3. Tomcat 8.5.x
 4. Maven 3.6.x
+5. SonarQube
  
 ## Exposed methods
 
